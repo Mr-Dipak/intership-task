@@ -217,3 +217,7 @@ Remember to:
 - Maintain type safety
 - Implement proper error handling
 - Consider performance implications
+
+
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/___YOUR_PATH___)
